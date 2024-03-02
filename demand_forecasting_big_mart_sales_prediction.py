@@ -7,8 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1UVCog0KtKpSizOREnqnLICa_vYO241WR
 
 ### Case Study: Big Mart Sales Prediction
-**Problem Statement**:
-The problem is to predict the sales of various products in Big Mart stores based on certain features such as product attributes, store location, and other factors. Essentially, the goal is to build a machine learning model that can accurately forecast the sales of products in Big Mart stores.
+
 
 **importing the dependencies**
 """
